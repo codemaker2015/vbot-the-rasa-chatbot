@@ -1,0 +1,26 @@
+[
+  {
+    "text": "what is your name?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7475407123565674
+    }
+  },
+  {
+    "text": "what are you called?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9854597449302673
+    }
+  },
+  {
+    "text": "how can i address you?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8024697303771973
+    }
+  }
+]

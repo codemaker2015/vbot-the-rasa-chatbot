@@ -89,3 +89,9 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: bot_name
+  examples: |
+    - what is your name?
+    - what are you called?
+    - how can i address you?
