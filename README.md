@@ -2,7 +2,7 @@
 
 ![](demo/demo.gif)
 
-VBot is live on AWS. [Click here](http://54.193.138.236/) to test it
+VBot is live on AWS. [Click here](http://54.183.218.201/) to test it
 
 ## Installation
 First, clone this repo using `git clone https://github.com/codemaker2015/vbot-the-rasa-chatbot`
